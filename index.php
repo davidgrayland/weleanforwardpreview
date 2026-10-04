@@ -1,0 +1,689 @@
+<?php include 'inc/header-top.php'; ?>
+
+<meta name="google-site-verification" content="-iCqYFiNhAVw3_vgELcLPEl9C4yaljbBXEfbpU6F6S4" />
+    <title>We Lean Forward - Lean Product Design, Development and Agile Delivery</title>
+
+    <meta name="description" content="A modern software consultancy focused on product design, development and delivery.  We provide professional services and thought leadership on Lean Product development and Agile delivery.">
+
+    <link rel="canonical" href="https://www.weleanforward.com"/>
+
+    <link rel="shortcut icon" href="/favicon.ico" type="image/vnd.microsoft.icon" />
+	<link rel="icon" href="/favicon.ico" type="image/vnd.microsoft.icon" />
+
+<?php include 'inc/header-bott.php'; ?>
+
+
+
+<!-- START REVOLUTION SLIDER 4.5.9 fullwidth mode -->
+<div id="rev2_wrapper" class="rev_slider_wrapper fullwidthbanner-container">
+<div id="rev2" class="rev_slider fullwidthabanner">
+<ul>
+<!-- SLIDE  -->
+<li data-transition="zoomout" data-slotamount="5" data-masterspeed="700" >
+    <!-- MAIN IMAGE -->
+<img src="/assets/images/content/dummy.png"  alt="3dbg" data-lazyload="/assets/images/content/main-slide5.jpg" data-bgposition="center top" data-bgfit="cover" data-bgrepeat="no-repeat">
+<!-- LAYERS -->
+
+<!-- LAYER NR. 1 -->
+<div class="tp-caption customin customout h2 uppercase white weight300 hr-left"
+     data-x="121"
+     data-y="30"
+
+     data-customin="x:0;y:0;z:0;rotationX:90;rotationY:0;rotationZ:0;scaleX:1;scaleY:1;skewX:0;skewY:0;opacity:0;transformPerspective:200;transformOrigin:50% 0%;"
+     data-customout="x:0;y:0;z:0;rotationX:0;rotationY:0;rotationZ:0;scaleX:0.75;scaleY:0.75;skewX:0;skewY:0;opacity:0;transformPerspective:600;transformOrigin:50% 50%;"
+     data-speed="1000"
+     data-start="800"
+     data-easing="Back.easeInOut"
+     data-endspeed="300"
+     style="z-index: 7">
+    We Lean <br />Forward
+</div>
+
+<!-- LAYER NR. 3 -->
+<div class="tp-caption lft skewtoleftshort rs-parallaxlevel-9"
+     data-x="-6"
+     data-y="337"
+     data-speed="1000"
+     data-start="1400"
+     data-easing="Power3.easeInOut"
+     data-elementdelay="0.1"
+     data-endelementdelay="0.1"
+     data-end="7300"
+     data-endspeed="1000"
+     style="z-index: 4;">
+    <img src="/assets/images/content/dummy.png" alt="" data-lazyload="/assets/images/content/4U.png">
+</div>
+
+<!-- LAYER NR. 8 -->
+<div class="tp-caption lfr randomrotateout tp-resizeme rs-parallaxlevel-2"
+     data-x="690"
+     data-y="204"
+     data-speed="1000"
+     data-start="2900"
+     data-easing="Power3.easeInOut"
+     data-splitin="none"
+     data-splitout="none"
+     data-elementdelay="0.1"
+     data-endelementdelay="0.1"
+     data-end="7900"
+     data-endspeed="1000">
+    <img src="/assets/images/content/dummy.png" alt="" data-lazyload="/assets/images/content/ideas-insight.png">
+</div>
+
+<!-- LAYER NR. 9 -->
+<div class="tp-caption lfr randomrotateout tp-resizeme rs-parallaxlevel-2"
+     data-x="770"
+     data-y="276"
+     data-speed="1000"
+     data-start="3000"
+     data-easing="Power3.easeInOut"
+     data-splitin="none"
+     data-splitout="none"
+     data-elementdelay="0.1"
+     data-endelementdelay="0.1"
+     data-end="7900"
+     data-endspeed="1000">
+    <img src="/assets/images/content/dummy.png" alt="" data-lazyload="/assets/images/content/build-products.png">
+</div>
+
+<!-- LAYER NR. 10 -->
+<div class="tp-caption lfr randomrotateout tp-resizeme rs-parallaxlevel-2"
+     data-x="770"
+     data-y="348"
+     data-speed="1000"
+     data-start="3100"
+     data-easing="Power3.easeInOut"
+     data-splitin="none"
+     data-splitout="none"
+     data-elementdelay="0.1"
+     data-endelementdelay="0.1"
+     data-end="8200"
+     data-endspeed="1000">
+    <img src="/assets/images/content/dummy.png" alt="" data-lazyload="/assets/images/content/measure-learn.png">
+</div>
+
+<!-- LAYER NR. 11 -->
+<div class="tp-caption lfr randomrotateout tp-resizeme rs-parallaxlevel-2"
+     data-x="770"
+     data-y="420"
+     data-speed="1000"
+     data-start="3200"
+     data-easing="Power3.easeInOut"
+     data-splitin="none"
+     data-splitout="none"
+     data-elementdelay="0.1"
+     data-endelementdelay="0.1"
+     data-end="8200"
+     data-endspeed="1000">
+    <img src="/assets/images/content/dummy.png" alt="" data-lazyload="/assets/images/content/innovate-evolve.png">
+</div>
+
+<!-- LAYER NR. 12 -->
+<div class="tp-caption lfr randomrotateout tp-resizeme rs-parallaxlevel-2"
+     data-x="735"
+     data-y="492"
+     data-speed="1000"
+     data-start="3300"
+     data-easing="Power3.easeInOut"
+     data-splitin="none"
+     data-splitout="none"
+     data-elementdelay="0.1"
+     data-endelementdelay="0.1"
+     data-end="8500"
+     data-endspeed="1000">
+    <img src="/assets/images/content/dummy.png" alt="" data-lazyload="/assets/images/content/generate-value.png">
+</div>
+
+<!-- LAYER NR. 13 -->
+<div class="tp-caption lfr randomrotateout tp-resizeme rs-parallaxlevel-2"
+     data-x="680"
+     data-y="565"
+     data-speed="1000"
+     data-start="3400"
+     data-easing="Power3.easeInOut"
+     data-splitin="none"
+     data-splitout="none"
+     data-elementdelay="0.1"
+     data-endelementdelay="0.1"
+     data-end="8500"
+     data-endspeed="1000">
+      <img src="/assets/images/content/dummy.png" alt="" data-lazyload="/assets/images/content/create-loyalty.png">
+
+</div>
+
+<!-- LAYER NR. 4 -->
+<div class="tp-caption lft skewtoleftshort rs-parallaxlevel-2"
+     data-x="492"
+     data-y="310"
+     data-speed="1000"
+     data-start="1700"
+     data-easing="Power3.easeInOut"
+     data-elementdelay="0.1"
+     data-endelementdelay="0.1"
+     data-end="7600"
+     data-endspeed="1000"
+     style="z-index: 5;">
+    <img src="/assets/images/content/dummy.png" alt="" data-lazyload="/assets/images/content/slider-object4.png">
+</div>
+
+<!-- LAYER NR. 5 -->
+<div class="tp-caption lft skewtoleftshort rs-parallaxlevel-2"
+     data-x="597"
+     data-y="204"
+     data-speed="1000"
+     data-start="2000"
+     data-easing="Power3.easeInOut"
+     data-elementdelay="0.1"
+     data-endelementdelay="0.1"
+     data-end="7900"
+     data-endspeed="1000"
+     style="z-index: 6;">
+
+        <img src="/assets/images/content/dummy.png" alt="" data-lazyload="/assets/images/content/slider-object1.png">
+
+</div>
+
+<!-- LAYER NR. 6 -->
+<div class="tp-caption lft skewtoleftshort rs-parallaxlevel-2"
+     data-x="702"
+     data-y="310"
+     data-speed="1000"
+     data-start="2300"
+     data-easing="Power3.easeInOut"
+     data-elementdelay="0.1"
+     data-endelementdelay="0.1"
+     data-end="8200"
+     data-endspeed="1000"
+     style="z-index: 7;">
+
+        <img src="/assets/images/content/dummy.png" alt="" data-lazyload="/assets/images/content/slider-object2.png">
+
+</div>
+
+<!-- LAYER NR. 7 -->
+<div class="tp-caption lft skewtoleftshort rs-parallaxlevel-2"
+     data-x="597"
+     data-y="415"
+     data-speed="1000"
+     data-start="2600"
+     data-easing="Power3.easeInOut"
+     data-elementdelay="0.1"
+     data-endelementdelay="0.1"
+     data-end="8500"
+     data-endspeed="1000"
+     style="z-index: 8;">
+
+        <img src="/assets/images/content/dummy.png" alt="" data-lazyload="/assets/images/content/slider-object3.png">
+
+</div>
+</li>
+
+<!-- SLIDE  -->
+<li data-transition="zoomout" data-slotamount="5" data-masterspeed="700" >
+    <!-- MAIN IMAGE -->
+    <img src="/assets/images/content/main-slide8.jpg"  alt="video_typing_cover"  data-bgposition="center center" data-bgfit="cover" data-bgrepeat="no-repeat">
+    <!-- LAYERS -->
+
+    <!-- LAYER NR. 1 -->
+    <div class="tp-caption tp-fade fadeout fullscreenvideo rs-parallaxlevel-3"
+         data-x="0"
+         data-y="0"
+         data-speed="1000"
+         data-start="1100"
+         data-easing="Power4.easeOut"
+         data-elementdelay="0.01"
+         data-endelementdelay="0.1"
+         data-endspeed="1500"
+         data-endeasing="Power4.easeIn"
+         data-autoplay="true"
+         data-autoplayonlyfirsttime="false"
+         data-nextslideatend="true"
+         data-volume="mute" data-forceCover="1" data-aspectratio="16:9" data-forcerewind="on">
+    </div>
+
+    <!-- LAYER NR. 2 -->
+    <div class="tp-caption customin customout h1 uppercase white big"
+         data-x="center"
+         data-y="205"
+
+         data-customin="x:0;y:0;z:0;rotationX:90;rotationY:0;rotationZ:0;scaleX:1;scaleY:1;skewX:0;skewY:0;opacity:0;transformPerspective:200;transformOrigin:50% 0%;"
+         data-customout="x:0;y:0;z:0;rotationX:0;rotationY:0;rotationZ:0;scaleX:0.75;scaleY:0.75;skewX:0;skewY:0;opacity:0;transformPerspective:600;transformOrigin:50% 50%;"
+         data-speed="1000"
+         data-start="800"
+         data-easing="Back.easeInOut"
+         data-endspeed="300"
+         style="z-index: 7">
+        Lean Products
+    </div>
+
+    <!-- LAYER NR. 3 -->
+    <div class="tp-caption sfb h2 uppercase white weight300"
+         data-x="center"
+         data-y="center"
+
+         data-speed="500"
+         data-start="1500"
+         data-easing="Power4.easeOut"
+         data-endspeed="300"
+         data-endeasing="Power1.easeIn"
+         data-captionhidden="off"
+         style="z-index: 7">
+        Build - Measure - Learn
+    </div>
+    <!-- LAYER NR. 4 -->
+    <div class="tp-caption customin tp-resizeme rs-parallaxlevel-0 start hasclicklistener"
+         data-x="center"
+         data-y="490"
+
+         data-customin="x:0;y:0;z:0;rotationX:0;rotationY:0;rotationZ:0;scaleX:0;scaleY:0;skewX:0;skewY:0;opacity:0;transformPerspective:600;transformOrigin:50% 50%;"
+         data-speed="500"
+         data-start="1900"
+         data-easing="Power3.easeInOut"
+         data-splitin="none"
+         data-splitout="none"
+         data-elementdelay="0.1"
+         data-endelementdelay="0.1"
+         data-linktoslide="next">
+        <a href="/#services" class="btn btn-primary btn-lg">See Our Services</a>
+    </div>
+</li>
+</ul>
+<div class="tp-bannertimer"></div>	</div>
+</div>
+
+<!-- END REVOLUTION SLIDER -->
+
+<div class="container"></div>
+
+
+<section id="aboutus" class="container scroll">
+
+    <div class="row">
+
+        <div class="col-md-12 text-center">
+
+            <h2 class="uppercase section-title hr-mid">Create
+
+                <span class="ct-ribbon"><span class="ct-triangle"></span> <span>Lean Products</span></span>
+
+                 with <span class="weight400" style="color:#2b8be9">Lean</span>Forward<span class="weight400" style="color:#d2d2d2">Methods</span></h2>
+
+            <h2 class="uppercase weight300">Experience, passion &amp; pride&nbsp;&nbsp;-&nbsp;&nbsp;Energise like a start-up<br />Everything begins &amp; ends with the customer:</h2>
+
+        </div>
+
+        <div class="col-md-12">
+
+            <div class="ct-process">
+
+                <div class="row">
+
+                    <div class="display-table">
+
+                        <div class="hidden-sm table-cell ct-process-icon">
+
+                            <span class="ct-process-right"><i class="fa fa-hand-o-right"></i></span>
+
+                        </div>
+
+                        <div class="table-cell text-center animated" data-fx="bounceIn" data-time="50">
+
+                            <img class="img-circle img-responsive" src="/assets/images/content/research.jpg" alt="Research">
+
+                            <div class="shadow"></div>
+
+                            <span class="gloria motive">Research</span>
+
+                        </div>
+
+                        <div class="table-cell text-center animated" data-fx="bounceIn" data-time="150">
+
+                            <img class="img-circle img-responsive" src="/assets/images/content/idea.jpg" alt="Idea">
+
+                            <div class="shadow"></div>
+
+                            <span class="gloria motive">Idea</span>
+
+                        </div>
+
+                        <div class="table-cell text-center animated" data-fx="bounceIn" data-time="250">
+
+                            <img class="img-circle img-responsive" src="/assets/images/content/solution.jpg" alt="Solution">
+
+                            <div class="shadow"></div>
+
+                            <span class="gloria motive">Solution</span>
+
+                        </div>
+
+                        <div class="hidden-sm table-cell ct-process-icon">
+
+                            <span class="ct-process-left"><i class="fa fa-trophy"></i></span>
+
+                        </div>
+
+                    </div>
+
+                    <div class="clearfix"></div>
+
+                </div>
+
+            </div>
+
+        </div>
+
+    </div>
+
+</section>
+
+
+
+<div class="container"></div>
+
+
+
+<div id="services" class="scroll">
+    <div class="media-section" data-stellar-background-ratio="0.5" data-height="500" data-type="parallax" data-image="/assets/images/content/parallax3.jpg" data-image-mobile="/assets/images/content/parallax3-mobile.jpg">
+        <div class="inner">
+            <div class="container">
+                <div class="row">
+                    <div class="col-md-12 text-center">
+                        <h2 class="uppercase hr-mid">
+                            Services
+                        </h2>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-md-3 col-xs-6">
+                        <div class="service-box" data-toggle="tooltip" data-placement="bottom" title="">
+                            <i class="fa fa-paper-plane-o"></i>
+                            <span class="h4 uppercase">Lean Product Development <br>(Agile Delivery)</span>
+                        </div>
+                    </div>
+                    <div class="col-md-3 col-xs-6">
+                        <div class="service-box" data-toggle="tooltip" data-placement="bottom" title="">
+                            <i class="fa fa-edit"></i>
+                            <span class="h4 uppercase">Customer Research, Value Proposition Review &amp; Analysis</span>
+                        </div>
+                    </div>
+                    <div class="clearfix visible-sm visible-xs"></div>
+                    <hr class="visible-xs visible-sm transparent">
+                    <div class="col-md-3 col-xs-6">
+                        <div class="service-box" data-toggle="tooltip" data-placement="bottom" title="">
+                            <i class="fa fa-keyboard-o"></i>
+                            <span class="h4 uppercase">Delivery, Design, Development, Technology &amp; Vendor Selection</span>
+                        </div>
+                    </div>
+                    <div class="col-md-3 col-xs-6">
+                        <div class="service-box" data-toggle="tooltip" data-placement="bottom" title="">
+                            <i class="fa fa-rocket"></i>
+                            <span class="h4 uppercase">Product Launch, Go To Market Strategy, &amp; Roadmap</span>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+<div class="container"></div>
+
+<div id="pricing" class="scroll">
+<section class="call-box bg3">
+    <div class="inner">
+        <div class="container">
+            <div class="row">
+                <div class="table-cell col-md-7">
+                    <h2 class="uppercase">
+                        Pricing
+                    </h2>
+                    <p>We offer a number of services, packages &amp; prices.</p>
+                </div>
+                <div class="table-cell col-md-5 text-right">
+                    <a href="/#contact" target="_blank" class="btn-purchase btn btn-border btn-lg large-padding">Contact Us</a>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+</div>
+
+<div class="container"></div>
+
+
+
+<div class="container section">
+
+    <div class="row pricing">
+
+        <section class="col-md-4 col-sm-6 text-center">
+
+            <h4 class="sep uppercase">
+
+                Lean Product Consult
+
+            </h4>
+
+            <div class="pricebox">
+
+                <div class="display-table">
+
+                    <div class="table-cell text-right">
+
+                        <span class="currency">£</span>
+
+                        <span class="price">800</span>
+
+                    </div>
+
+                    <div class="table-cell text-left">
+
+                        <span class="overprice">&nbsp;</span>
+
+                        <span class="underprice uppercase weight700">Daily</span>
+
+                    </div>
+
+                </div>
+
+            </div>
+
+  			<span class="sep">
+                 Product Development (0-3mths)
+            </span>
+            <span class="sep">
+                Product Evaluation, Ideation &amp; Roadmap Consult
+            </span>
+            <span class="sep">
+                Customer Insight, Analysis &amp; Metric Consult
+            </span>
+            <span class="sep">
+                UX Direction, MVP &amp; Go-to-market Consult
+            </span>
+            <span class="sep">
+                Development &amp; Delivery Consult
+            </span>
+
+            <div class="sep text-center">
+
+                <div class="btn-group-single">
+
+                    <a href="/#contact" class="btn btn-lg btn-border"><i class="fa fa-fw fa-sign-in"></i></a>
+
+                    <a href="/#contact" class="btn btn-lg btn-border">Contact Us</a>
+
+                </div>
+
+            </div>
+
+        </section>
+
+        <div class="clearfix visible-sm"></div>
+
+        <hr class="visible-sm transparent">
+
+        <section class="col-md-4 col-sm-6 text-center" data-toggle="tooltip" data-placement="top" title="Recommended! Best value for money.">
+
+            <h3 class="sep uppercase">
+
+                Product Ownership
+
+            </h3>
+
+            <div class="pricebox motive">
+
+                <div class="display-table">
+
+                    <div class="table-cell text-right">
+
+                        <span class="currency">£</span>
+
+                        <span class="price">1000</span>
+
+                    </div>
+
+                    <div class="table-cell text-left">
+
+                        <span class="overprice">&nbsp;</span>
+
+                        <span class="underprice uppercase weight700">Daily</span>
+
+                    </div>
+
+                </div>
+
+            </div>
+
+            <span class="sep">
+                Incl. Lean Product Consult services+
+            </span>
+            <span class="sep">
+                Delivery & Team Management
+            </span>
+            <span class="sep">
+                UX, Customer Journey, Insights & Improvements
+            </span>
+            <span class="sep">
+                Roadmap & Product Feature Ownership
+            </span>
+            <span class="sep">
+                Go-to-market, Learning & Innovation planning
+            </span>
+
+            <div class="sep text-center">
+
+                <div class="btn-group-single bigger">
+
+                    <a href="/#contact" class="btn btn-lg btn-border"><i class="fa fa-fw fa-sign-in"></i></a>
+
+                    <a href="/#contact" class="btn btn-lg btn-border">Contact Us</a>
+
+                </div>
+
+            </div>
+
+        </section>
+
+        <section class="col-md-4 col-sm-6 text-center">
+
+            <h4 class="sep uppercase">
+
+               Product Strategy
+
+            </h4>
+
+            <div class="pricebox">
+
+                <div class="display-table">
+
+                    <div class="table-cell text-right">
+
+                        <span class="currency">£</span>
+
+                        <span class="price">1200</span>
+
+                    </div>
+
+                    <div class="table-cell text-left">
+
+                        <span class="overprice">&nbsp;</span>
+
+                        <span class="underprice uppercase weight700">Daily</span>
+
+                    </div>
+
+                </div>
+
+            </div>
+
+                <span class="sep">
+                    Incl. Lean Product Manager services+
+                </span>
+                <span class="sep">
+                    Technology Procurement &amp; Contracts
+                </span>
+                <span class="sep">
+                    Business Model Canvas
+                </span>
+                <span class="sep">
+                    Value Proposition Design
+                </span>
+                <span class="sep">
+                    Capex Man’t, Business Case &amp; Forecast
+                </span>
+
+            <div class="sep text-center">
+
+                <div class="btn-group-single">
+
+                    <a href="/#contact" class="btn btn-lg btn-border"><i class="fa fa-fw fa-sign-in"></i></a>
+
+                    <a href="/#contact" class="btn btn-lg btn-border">Contact Us</a>
+
+                </div>
+
+            </div>
+
+        </section>
+
+    </div>
+
+</div>
+
+<hr class="hr-shadow">
+
+<section class="container">
+    <div class="row">
+        <div class="col-md-12 text-center">
+            <h2 class="uppercase section-title hr-mid"><span class="weight400">Experience</span></h2>
+            <h2 class="uppercase weight300">TV &amp; Media - Mobile &amp; Telecoms - Travel &amp; Leisure - FinTech</h2>
+            <br>
+        </div>
+        <div class="col-md-12 2 text-center">
+            <div class="partners flexslider" data-maxitems="4" data-minitems="1" data-itemwidth="138" data-itemmargin="20" data-move="4" data-directionnav="false">
+
+            <div class="flex-viewport" style="overflow: hidden; position: relative;"><ul class="slides" style="width: 1600%; -webkit-transition-duration: 0s; transition-duration: 0s; -webkit-transform: translate3d(-386.666666666667px, 0px, 0px); transform: translate3d(-386.666666666667px, 0px, 0px);">
+            		<li style="width: 173.333333333333px; float: left; display: block;">
+                        <a href="http://www.virginmedia.com" target="_blank"><img src="assets/images/content/partner-vm.jpg" alt="preview" draggable="false" ></a>
+                    </li>
+                    <li style="width: 173.333333333333px; float: left; display: block;">
+                        <a href="http://store.virginmedia.com/virgin-media-mobile.html" target="_blank"><img src="assets/images/content/partner-vmobile.png" alt="preview" draggable="false" style="margin-top: 10px;"></a>
+                    </li>
+                    <li style="width: 173.333333333333px; float: left; display: block;">
+                        <a href="http://www.lastminute.com" target="_blank"><img src="assets/images/content/partner-lmn.gif" alt="preview" draggable="false" style="margin-top: 50px;"></a>
+                    </li>
+
+
+                    <li style="width: 173.333333333333px; float: left; display: block;">
+                        <a href="http://www.ebury.com" target="_blank"><img src="assets/images/content/partner-ebury.jpeg" alt="preview" draggable="false" style="margin-top: 45px;"></a>
+                    </li>
+
+                </ul></div></div>
+        </div>
+    </div>
+</section>
+
+<div class="container"></div>
+
+<?php include 'inc/footer-full.php'; ?>
